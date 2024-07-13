@@ -19,8 +19,7 @@ The data used in this project consists of the General Ledger (GL) entries of a c
 
 ## Measures
 The following measures were created to facilitate the analysis and visualization of the financial data:
-- **Total Revenue, Total COS, Total Expense, Gross Profit, Gross Margin, Net Profit, Net Profit Margin, Record, Current, Previous
-**
+- **Total Revenue, Total COS, Total Expense, Gross Profit, Gross Margin, Net Profit, Net Profit Margin, Record, Current, Previous**
 
 ## Dashboard Features
 - **Key Metrics**: Displays key financial metrics such as Revenue, COS, Gross Profit, Net Profit, Gross Margin, and Net Margin.
